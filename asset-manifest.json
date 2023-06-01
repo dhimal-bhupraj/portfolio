@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0d4c8ca4.css",
+    "main.js": "/portfolio/static/js/main.6887d87b.js",
+    "static/media/UIUXdesign.jpg": "/portfolio/static/media/UIUXdesign.5f2a010beca654631917.jpg",
+    "static/media/computer.jpg": "/portfolio/static/media/computer.d0943fbd57313ac0217f.jpg",
+    "static/media/SEO.jpg": "/portfolio/static/media/SEO.acf3b83aab01dbad5808.jpg",
+    "static/media/Github.jpg": "/portfolio/static/media/Github.aed60af0cb5e84c7f47d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.0d4c8ca4.css.map": "/portfolio/static/css/main.0d4c8ca4.css.map",
+    "main.6887d87b.js.map": "/portfolio/static/js/main.6887d87b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4c8ca4.css",
+    "static/js/main.6887d87b.js"
+  ]
+}
